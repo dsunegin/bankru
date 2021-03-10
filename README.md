@@ -1,8 +1,8 @@
 # bankru - Описание RU
 
-## Официальный курс валют и банковских металлов по данным НацБанка России [bank.gov.ua](https://bank.gov.ua) 
+## Официальный курс валют и банковских металлов по данным Центрального Банка России [www.cbr.ru](https://www.cbr.ru) 
 
-Данные [НацБанк API](https://bank.gov.ua/ua/open-data/api-dev) сохраняются в локальную БД mysql
+Данные [ЦБР API](https://www.cbr.ru/development/SXML/) сохраняются в локальную БД mysql
 
 Структура таблиц описана в **db_finance.sql**
 
@@ -11,9 +11,9 @@
  
 # bankru - Description EN
 
-## Official exchange rate of currencies and bank metals according to the National Bank of Ukraine (NBU) [bank.gov.ua](https://bank.gov.ua)
+## Official exchange rate of currencies and bank metals according to the Central Bank of Russian Federation (CBR) [www.cbr.ru](https://www.cbr.ru)
 
-FX Data from [NBU API](https://bank.gov.ua/ua/open-data/api-dev) are saved in a local mysql database 
+FX Data from [CBR API](https://www.cbr.ru/development/SXML/) are saved in a local mysql database 
 
 Database structure describes in  **db_finance.sql**
 
