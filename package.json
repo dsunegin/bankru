@@ -1,0 +1,26 @@
+{
+  "name": "bankru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-fx-bankru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsunegin/bankru.git"
+  },
+  "author": "Denis Sunegin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsunegin/bankru/issues"
+  },
+  "homepage": "https://github.com/dsunegin/bankru#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "iconv-lite": "^0.6.2",
+    "mysql2": "^2.1.0",
+    "xml2js": "^0.4.23"
+  }
+}
